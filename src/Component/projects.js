@@ -16,10 +16,11 @@ const Projects = () => {
     },
     
     {
-      title: "Blog Platform",
-      description: "Blogging platform where users can add/delete posts stored in MongoDB.",
-      tech: ["Node.js", "Express.js", "MongoDB"],
-      github: "https://github.com/naveenkumar80"
+      title: "Itinerary builder",
+      description: "Web app to create and manage travel itineraries with CRUD operations and generate PDF summaries.",
+      tech: ["React","Node.js", "Express.js", "MongoDB"],
+      github: "https://github.com/naveenkumar80/itinerary-builder",
+      link: "https://itinerary-builder-4nqk.vercel.app/"
     },
     {
       title: "Blog Platform",
