@@ -6,8 +6,23 @@ const Projects = () => {
       title: "Eastern Exploration Website",
       description: "Responsive travel and tour website with functional contact form using PHP and Bootstrap.",
       tech: ["HTML", "CSS", "JavaScript", "PHP", "Bootstrap"],
-      link: "https://naveenkumar80.github.io/eastern_experience.github.io/"
+      link: "https://naveenkumar80.github.io/eastern_experience.github.io/",
+      github: "https://github.com/naveenkumar80/EasternExperience.github.io"
     },
+    {
+      title: "Hotel Booking Cancellations Analysis Dashboard",
+      description: "This project analyzes a dataset of hotel bookings obtained from Kaggle to understand the patterns and factors contributing to booking cancellations.",
+      tech: ["Ms Excel", "kaggle", "matplotlib"],
+      github: "https://github.com/naveenkumar80/Hotel_cancellation"
+    },
+
+    {
+      title: "Weather Now ☀️🌧️",
+      description: "A fast and beautiful weather application designed for outdoor enthusiasts who need quick access to current weather conditions for any city worldwide.",
+      tech: ["React", "Tailwind CSS", "Lucide React", "Open-Meteo API"],
+      github: "https://github.com/naveenkumar80/weather-now"
+    },
+
     {
       title: "TO-DO List Application",
       description: "Full-stack task management app with persistent data storage using MongoDB.",

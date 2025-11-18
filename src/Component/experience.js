@@ -3,6 +3,19 @@ import { Briefcase } from 'lucide-react';
 const Experience = () => {
   const experience = [
     {
+      title: "Fullstack Developer Intern",
+      company: "Sunsys Techsol Pvt Ltd",
+      location: "Noida",
+      period: "Oct 2025 - Present",
+      points: [
+        "Leading a team of developers to design, develop, and deploy full-stack web applications with optimized performance and clean, scalable architecture.",
+
+        "Built and delivered responsive e-ducation and IT services platforms using React.js, Node.js, Express.js, MongoDB, PHP, and REST APIs.",
+
+        "Managed API integrations, code reviews, and deployment workflows while ensuring high-quality deliverables and smooth team collaboration."
+      ]
+    },
+    {
       title: "Frontend Developer Intern",
       company: "Anafins Solutions & Analytics",
       location: "Delhi",
