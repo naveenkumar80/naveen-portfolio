@@ -11,7 +11,7 @@ const experiences = [
   {
     company: 'Turing',
     role: 'LLM Trainer & POD Lead',
-    period: 'Dec 2025 - Mar 2026',
+    period: 'Dec 2025 - July 2026',
     desc: 'Led AI trainers, designed instruction-response pairs, built RLHF-aligned rubrics, and coordinated evaluation pipelines to improve model output fidelity.',
   },
   {
