@@ -8,7 +8,11 @@
 
 ## 🌟 Overview
 
-A modern, high-performance developer portfolio built with **React 19**, **Vite**, **Tailwind CSS**, and **Three.js / React Three Fiber**, showcasing a soft-neumorphic design aesthetic. It highlights production-grade full stack applications, cloud and DevOps certifications, technical AI/LLM evaluation work, and 14+ engineered projects.
+A modern, high-performance developer portfolio built with **React 19**, **Vite**, **Tailwind CSS**, and **Three.js / React Three Fiber**, featuring a **Dual-Design Engine**:
+1. **Clean Neumorphic Design:** Soft shadows, modern 3D floating mesh, understated elegance.
+2. **Cyber Comic Studio Design:** Inspired by modern creative developer portfolios with dark-mode canvas, organic neon splashes, hand-drawn SVG doodles (stars, crowns, squiggles, lightning), sticker avatar graphics, and playful interactive cards.
+
+Includes a one-click persistent switcher button available in both the navigation bar and a floating corner badge.
 
 ---
 
